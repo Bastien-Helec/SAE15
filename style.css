@@ -1,0 +1,21 @@
+html {
+    size: auto;
+}
+
+html {
+    background-color: aquamarine;
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    text-decoration: underline;
+}
+
+body>div+br+br+br+div {
+    text-align: center;
+}
+img{
+    height: auto;
+    width: 400px;
+}
